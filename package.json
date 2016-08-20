@@ -1,6 +1,6 @@
 {
   "name": "collection-utils",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
   "description": "utilities for collection object",
   "main": "./index.js",
