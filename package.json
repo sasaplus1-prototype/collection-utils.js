@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "type-check": "github:sasaplus1-prototype/type-check.js"
   }
 }
